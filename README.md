@@ -25,7 +25,6 @@ Esse desafio tem como objetivo fixar os conhecimentos em Node.js aprendidos até
 - **`DELETE /repositories/:id`**: A rota deve deletar o repositório com o `id` presente nos parâmetros da rota;
 
 - **`POST /repositories/:id/like`**: A rota deve aumentar o número de likes do repositório específico escolhido através do `id` presente nos parâmetros da rota, a cada chamada dessa rota, o número de likes deve ser aumentado em 1;
-<br />
 
 ## :pushpin: Maiores informações:
 
